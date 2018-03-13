@@ -1,6 +1,6 @@
 package kabe;
 import org.junit.*;
-import org.junit.Assert.*;
+import static org.junit.Assert.*;
 public class Testid1{
    @Test
    public void test1(){
