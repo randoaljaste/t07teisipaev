@@ -9,6 +9,7 @@ public class Testid1{
    }
    @Test
    public void test2(){
-	   
+	   assertEquals(0, laud.veergKoodiks('A'));
+	   assertEquals(7, laud.veergKoodiks('H'));
    }
 }
